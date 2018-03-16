@@ -29,6 +29,11 @@ angular.module('starter.services', [])
     name: 'Mike Harrington',
     lastText: 'This is wicked good ice cream.',
     face: 'img/mike.png'
+  }, {
+    id: 4,
+    name: 'There is a change',
+    lastText: 'Change 2 in V2',
+    face: 'img/mike.png'
   }];
 
   return {

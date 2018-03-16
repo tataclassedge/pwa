@@ -26,7 +26,7 @@
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-ionic": {
         "APP_ID": "5fa820b8",
-        "CHANNEL_NAME": "Production",
+        "CHANNEL_NAME": "Master",
         "UPDATE_METHOD": "auto",
         "WARN_DEBUG": "true",
         "UPDATE_API": "https://api.ionicjs.com",
